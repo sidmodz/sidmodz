@@ -4,7 +4,7 @@ I'm Ali, a passionate student of Data Science & AI. Welcome to my GitHub profile
 
 ## 📚 Education
 
-- Currently pursuing a data science & AI at Ecole Nationale Polytechnique (ENP).
+- 5th year student of data science & AI at Ecole Nationale Polytechnique (ENP).
 <!---
 ## 💻 Skills
 
