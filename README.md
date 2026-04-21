@@ -38,7 +38,7 @@ I'm open to collaborating on exciting data science and AI projects. Feel free to
 
 ## 📫 Contact Me
 
-- Email: ali.mokrani@g.enp.edu.dz
+- Email: ali.mokrani.pro@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ali-mokrani/
 ---
 
